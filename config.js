@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "o kurda aż tak mocno?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "o kurde aż tak mocno?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "TAAAAAAAAAAAAAAAK! 🚀💝",              // Shows when they go past 1000%
         normal: "da sie mocniej! 🥰"                           // Shows when they go past 100%
     },

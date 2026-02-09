@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Dominika",
+    valentineName: "Dominiko",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "o kurwa aż tak mocno?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "o kurda aż tak mocno?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "TAAAAAAAAAAAAAAAK! 🚀💝",              // Shows when they go past 1000%
         normal: "da sie mocniej! 🥰"                           // Shows when they go past 100%
     },
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dn4cey9xb/video/upload/v1770675278/The_Police_-_Every_Breath_You_Take_Official_Video_rnfvli.mp3", // Music streaming URL
         startText: "🎵 muza on",        // Button text to start music
         stopText: "🔇 muza off",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
@@ -95,14 +95,14 @@ CONFIG.quiz = {
             correct: 0
         },
         {
-            question: "jaki jestem jak ja głodna?",
-            answers: ["marudny", "zmeczony", "oba"],
-            correct: 2
+            question: "jakie zwierze znosi jaja?",
+            answers: ["kura", "kogut, jak ma dobry dzien", "słoń"],
+            correct: 1
         },
         {
-            question: "kto zrobił pierwszy krok",
-            answers: ["ja(że natan xd)", "ty", "samo wyszło"],
-            correct: 0
+            question: "gdzie leży polska?",
+            answers: ["obok niemiec", "w moim sercu", "na niebie"],
+            correct: 1
         },
         {
             question: "co mnie najbardziej denerwuje?",

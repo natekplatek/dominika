@@ -365,7 +365,7 @@ function growYesButton() {
     if (yesGrowCount < maxYesGrow) {
         yesGrowCount++;
 
-        const scale = 1 + yesGrowCount * 0.5;
+        const scale = 1 + yesGrowCount * 0.3;
         yesBtn.style.transform = `scale(${scale})`;
         yesBtn.style.transition = 'transform 0.3s ease';
 

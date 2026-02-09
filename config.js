@@ -97,7 +97,7 @@ CONFIG.quiz = {
         {
             question: "jakie zwierze znosi jaja?",
             answers: ["kura", "kogut, jak ma dobry dzien", "słoń"],
-            correct: 1
+            correct: 0
         },
         {
             question: "gdzie leży polska?",
